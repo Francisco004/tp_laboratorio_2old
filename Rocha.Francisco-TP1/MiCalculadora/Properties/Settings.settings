@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MiCalculadora.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="asd" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">500, 300</Value>
+    </Setting>
+    <Setting Name="TP" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">500, 300</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
