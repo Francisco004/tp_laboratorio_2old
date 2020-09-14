@@ -59,8 +59,8 @@ namespace MiCalculadora
         {
             this.txtNumero1.Clear();
             this.txtNumero2.Clear();
-            this.lblResultado.Text = "0";
-            this.cmbOperador.Text = " ";
+            this.lblResultado.Text = null;
+            this.cmbOperador.Text = "";
         }
 
         private static double Operar(string numero1, string numero2, string operador)

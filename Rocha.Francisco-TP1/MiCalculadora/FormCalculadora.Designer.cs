@@ -101,15 +101,17 @@
             // 
             // cmbOperador
             // 
+            this.cmbOperador.BackColor = System.Drawing.SystemColors.Window;
+            this.cmbOperador.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cmbOperador.Items.AddRange(new object[] {
             "+",
             "-",
             "/",
             "*"});
-            this.cmbOperador.Location = new System.Drawing.Point(229, 77);
+            this.cmbOperador.Location = new System.Drawing.Point(229, 74);
             this.cmbOperador.MaxLength = 1;
             this.cmbOperador.Name = "cmbOperador";
-            this.cmbOperador.Size = new System.Drawing.Size(121, 21);
+            this.cmbOperador.Size = new System.Drawing.Size(121, 28);
             this.cmbOperador.TabIndex = 1;
             // 
             // lblResultado
